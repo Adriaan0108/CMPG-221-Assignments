@@ -15,4 +15,4 @@ Assignment | Study Unit | Topic | Grade (%)
 7 | 7 | Sorting | 100
 8 | 8 | Trees | 100
 9 | 9 | Hashing | 100
-  |   | Average | 94.86
+- | - | Average | 94.86
